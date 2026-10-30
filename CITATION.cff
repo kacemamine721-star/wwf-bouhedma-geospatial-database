@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this geospatial dataset in academic research or technical reporting, please cite it as below."
+title: "Bouhedma National Park Geospatial & Biodiversity Monitoring Database"
+abstract: "Comprehensive geospatial, ecological, and biodiversity database collected during the WWF Talent Academy 2026 field camp in Bouhedma National Park (Tunisia), covering 24 layers of pre-Saharan Vachellia tortilis savanna monitoring, large herbivore censuses, carnivore camera-trapping, mist netting, and phytoecology."
+authors:
+  - name: "WWF North Africa"
+    city: "Tunis"
+    country: "TN"
+    website: "https://www.wwf.tn"
+  - name: "General Directorate of Forests (DGF Tunisia)"
+    city: "Tunis"
+    country: "TN"
+  - name: "WWF Talent Academy 2026 Cohort"
+version: 1.0.0
+date-released: 2026-10-30
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/wwf-tunisia/bouhedma-geospatial-database"
+keywords:
+  - "Bouhedma National Park"
+  - "Tunisia"
+  - "Vachellia tortilis"
+  - "Oryx dammah"
+  - "Gazella dorcas"
+  - "Ammotragus lervia"
+  - "Struthio camelus"
+  - "WDPA 13962"
+  - "UNESCO-MAB"
+  - "Geospatial Data"
+  - "GeoJSON"
+  - "QGIS"
+

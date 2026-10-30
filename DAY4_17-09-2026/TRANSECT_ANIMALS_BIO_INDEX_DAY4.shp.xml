@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Axe du transect linéaire synchronisé à 3 observateurs (Jour 4)</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Axe du transect de prospection écologique parcouru le 17 septembre 2026 selon la méthode synchronisée à 3 observateurs espacés de 0.5 m (Navigateur GPS, Pointeur d'indices, Scribe) sous l'encadrement de Faouz Kilani et du Dr. Haithem El-Farhati. Recherche systématique des terriers, pistes et fèces.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.651170</westbc>
+        <eastbc>9.651619</eastbc>
+        <northbc>34.474786</northbc>
+        <southbc>34.474737</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Transect bio-index</themekey><themekey>Faouz Kilani</themekey><themekey>Dr. Haithem El-Farhati</themekey><themekey>Méthode 3 personnes</themekey><themekey>0.5m</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

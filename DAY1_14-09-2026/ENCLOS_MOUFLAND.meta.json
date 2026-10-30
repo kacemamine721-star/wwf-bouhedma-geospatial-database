@@ -1,0 +1,41 @@
+{
+  "layer_name": "ENCLOS_MOUFLAND",
+  "title": "Enclos de reproduction du Mouflon à manchettes (Ammotragus lervia)",
+  "abstract": "Enclos de reproduction conservatoire du Mouflon à manchettes (Ammotragus lervia, code AMLE). Effectif recensé : 3 individus (2 mâles adultes et 1 femelle). Espèce vulnérable (VU) inféodée aux versants rocheux du Djebel Bouhedma. Données sensibles soumises à confidentialité.",
+  "category": "Faune réintroduite - Enclos conservatoires",
+  "keywords": [
+    "Ammotragus lervia",
+    "AMLE",
+    "Mouflon à manchettes",
+    "Données sensibles",
+    "Djebel Bouhedma"
+  ],
+  "expert_lead": "Conservation du Parc National & DGF",
+  "day_folder": "DAY1_14-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Polygon",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.648078077715537,
+    "miny": 34.47497509727286,
+    "maxx": 9.648463738753861,
+    "maxy": 34.47532892044196
+  },
+  "columns": [
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "SPEC_CODE",
+    "SPEC_COMM",
+    "SPEC_SCI",
+    "TAXON_GRP",
+    "IUCN_STAT",
+    "NB_INDIV",
+    "NB_MALE",
+    "NB_FEM",
+    "HABITAT",
+    "PURPOSE",
+    "DATE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

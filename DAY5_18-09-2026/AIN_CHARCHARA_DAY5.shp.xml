@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Source pérenne et cascade d'Ain Charchara (Jour 5)</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Point d'eau naturel stratégique et cascade d'Ain Charchara au cœur du Djebel Bouhedma, visité le 18 septembre 2026 sous la direction du Dr. Alaeddine Rouissi. Corridor hydrologique et ripisylve d'oued abritant Retama raetam, Pistacia atlantica et Vachellia tortilis.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.655862</westbc>
+        <eastbc>9.655862</eastbc>
+        <northbc>34.511085</northbc>
+        <southbc>34.511085</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Ain Charchara</themekey><themekey>Source pérenne</themekey><themekey>Cascade</themekey><themekey>Ripisylve</themekey><themekey>Dr. Alaeddine Rouissi</themekey><themekey>Djebel</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

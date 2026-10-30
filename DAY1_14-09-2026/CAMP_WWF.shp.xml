@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Camp de base WWF Talent Academy 2026 - Bouhedma</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Emprise spatiale du camp de base de la WWF Talent Academy (Session Savane, 14-19 septembre 2026). Infrastructure centrale servant à l'hébergement des 30 participants et encadrants, aux ateliers théoriques de structuration de données écologiques et à la logistique de terrain au Parc National de Bouhedma.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.649995</westbc>
+        <eastbc>9.650861</eastbc>
+        <northbc>34.475544</northbc>
+        <southbc>34.474988</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>WWF Talent Academy</themekey><themekey>Camp de base</themekey><themekey>Bouhedma</themekey><themekey>Infrastructures</themekey><themekey>Formation</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

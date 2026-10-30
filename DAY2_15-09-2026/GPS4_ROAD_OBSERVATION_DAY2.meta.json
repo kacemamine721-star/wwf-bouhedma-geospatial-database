@@ -1,0 +1,40 @@
+{
+  "layer_name": "GPS4_ROAD_OBSERVATION_DAY2",
+  "title": "Itinéraire d'excursion et patrouille faune - Jour 2",
+  "abstract": "Itinéraire de patrouille en véhicule tout-terrain parcouru le 15 septembre 2026 lors de la 2ème journée d'excursion pour le recensement direct et le suivi comportemental des troupeaux d'antilopes et d'autruches. Encadrement scientifique : Marie Petretto (Marwell Wildlife).",
+  "category": "Itinéraires et patrouilles",
+  "keywords": [
+    "Itinéraire",
+    "Patrouille",
+    "Recensement faune",
+    "Marie Petretto",
+    "Marwell Wildlife",
+    "Jour 2"
+  ],
+  "expert_lead": "Marie Petretto (Marwell Wildlife) & WWF Talent Academy",
+  "day_folder": "DAY2_15-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.621059764176607,
+    "miny": 34.46030477061868,
+    "maxx": 9.659267412498593,
+    "maxy": 34.478781167417765
+  },
+  "columns": [
+    "name",
+    "desc",
+    "TRK_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERT",
+    "AFFILIAT",
+    "RECORDED_BY",
+    "PURPOSE",
+    "HABITAT",
+    "DIST_KM"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

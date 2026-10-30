@@ -1,0 +1,41 @@
+{
+  "layer_name": "ENCLOS_AUTRICHE",
+  "title": "Enclos de reproduction de l'Autruche d'Afrique du Nord (Struthio camelus)",
+  "abstract": "Enclos d'élevage conservatoire pour l'Autruche d'Afrique du Nord (Struthio camelus, code STCA). Effectif inventorié : 9 individus âgés de 5 mois (poussins de l'année). Dispositif de sécurisation des jeunes avant leur réintroduction en plaine libre dans la savane du parc.",
+  "category": "Faune réintroduite - Enclos conservatoires",
+  "keywords": [
+    "Struthio camelus",
+    "STCA",
+    "Autruche",
+    "Enclos de reproduction",
+    "Réintroduction",
+    "Bouhedma"
+  ],
+  "expert_lead": "Conservation du Parc National & WWF",
+  "day_folder": "DAY1_14-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Polygon",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.64641719600617,
+    "miny": 34.47463626866824,
+    "maxx": 9.6485553892777,
+    "maxy": 34.47646749915664
+  },
+  "columns": [
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "SPEC_CODE",
+    "SPEC_COMM",
+    "SPEC_SCI",
+    "TAXON_GRP",
+    "IUCN_STAT",
+    "NB_INDIV",
+    "AGE_CLASS",
+    "HABITAT",
+    "PURPOSE",
+    "DATE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

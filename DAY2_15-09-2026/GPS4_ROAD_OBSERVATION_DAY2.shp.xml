@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Itinéraire d'excursion et patrouille faune - Jour 2</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Itinéraire de patrouille en véhicule tout-terrain parcouru le 15 septembre 2026 lors de la 2ème journée d'excursion pour le recensement direct et le suivi comportemental des troupeaux d'antilopes et d'autruches. Encadrement scientifique : Marie Petretto (Marwell Wildlife).</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.621060</westbc>
+        <eastbc>9.659267</eastbc>
+        <northbc>34.478781</northbc>
+        <southbc>34.460305</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Itinéraire</themekey><themekey>Patrouille</themekey><themekey>Recensement faune</themekey><themekey>Marie Petretto</themekey><themekey>Marwell Wildlife</themekey><themekey>Jour 2</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

@@ -1,0 +1,33 @@
+{
+  "layer_name": "ITINERARY_AIN_CHARCHARA_DAY5",
+  "title": "Itinéraire de patrouille phytoécologique vers Ain Charchara (Jour 5)",
+  "abstract": "Itinéraire reliant la plaine de savane à la cascade et au couloir humide d'Ain Charchara dans le Djebel Bouhedma parcouru le 18 septembre 2026 sous l'encadrement du Dr. Alaeddine Rouissi.",
+  "category": "Itinéraires et patrouilles",
+  "keywords": [
+    "Itinéraire",
+    "Ain Charchara",
+    "Dr. Alaeddine Rouissi",
+    "Djebel Bouhedma"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "day_folder": "DAY5_18-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.649231592193246,
+    "miny": 34.47520092129707,
+    "maxx": 9.658280108124018,
+    "maxy": 34.51112802140415
+  },
+  "columns": [
+    "TRK_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERT",
+    "PURPOSE",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

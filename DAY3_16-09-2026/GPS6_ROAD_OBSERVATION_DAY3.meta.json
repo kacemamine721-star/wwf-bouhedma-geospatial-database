@@ -1,0 +1,35 @@
+{
+  "layer_name": "GPS6_ROAD_OBSERVATION_DAY3",
+  "title": "Tracé de patrouille et reconnaissance carnivores (Jour 3)",
+  "abstract": "Itinéraire de patrouille parcouru le 16 septembre 2026 par le Dr. Haithem El-Farhati et Jamel Jrijer pour la prospection d'indices de présence de carnivores (empreintes, fèces fraîches, restes de repas) et l'évaluation de la connectivité écologique des corridors.",
+  "category": "Itinéraires et patrouilles",
+  "keywords": [
+    "Patrouille",
+    "Carnivores",
+    "Dr. Haithem El-Farhati",
+    "Jamel Jrijer",
+    "Indices de présence"
+  ],
+  "expert_lead": "Dr. Haithem El-Farhati & Jamel Jrijer",
+  "day_folder": "DAY3_16-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.644661862403154,
+    "miny": 34.475475680083036,
+    "maxx": 9.650563728064299,
+    "maxy": 34.49610723182559
+  },
+  "columns": [
+    "TRK_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERTS",
+    "AFFILIAT",
+    "PURPOSE",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

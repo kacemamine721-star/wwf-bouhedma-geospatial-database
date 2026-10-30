@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "INSECT_OBSERVATION_DAY3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "STATION_ID": "BHD26_LT01", "NAME_FR": "Station de piégeage lumineux nocturne entomologique", "NAME_EN": "Nighttime Light Trap Insect Sampling Station", "DATE": "2026-09-16", "EXPERT": "Wael Ben Aba", "AFFILIAT": "WWF Afrique du Nord", "PROTOCOL": "Drap blanc vertical éclairé par ampoule blanche haute intensité alimentée sur véhicule", "MECHANISM": "Phototaxie nocturne & orientation transverse céleste", "ETHIC_RULE": "Quota éthique strict : max 5 spécimens par espèce par nuit", "PRESERVAT": "Liquide (Éthanol 70-80% pour corps mous) ou Sec (acétate et épingles pour coléoptères)", "LAB_ANALYS": "Examen sous loupe binoculaire (antennes, tarses, ailes, pièces buccales)", "HABITAT": "SAV" }, "geometry": { "type": "Point", "coordinates": [ 9.650443161690966, 34.474454567510463 ] } }
+]
+}

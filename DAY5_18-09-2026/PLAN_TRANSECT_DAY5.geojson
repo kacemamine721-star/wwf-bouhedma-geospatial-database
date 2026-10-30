@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PLAN_TRANSECT_DAY5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TRN_ID": "BHD26_PLN_TR05", "NAME_FR": "Axe linéaire du transect phytoécologique de 10m", "NAME_EN": "10m Phytoecological Line-Transect Central Axis", "DATE": "2026-09-18", "EXPERT": "Dr. Alaeddine Rouissi", "PROTOCOL": "Axe central matérialisé par décamètre, couloir d'inspection <= 0.5 m de part et d'autre", "HABITAT": "SAV" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.651484563946724, 34.474580492824316 ], [ 9.651535106822848, 34.474538583308458 ], [ 9.651558743789792, 34.474504804238677 ], [ 9.651669636368752, 34.474374381825328 ], [ 9.65181271545589, 34.474217221140862 ], [ 9.651812966912985, 34.474217472597957 ] ] } }
+]
+}

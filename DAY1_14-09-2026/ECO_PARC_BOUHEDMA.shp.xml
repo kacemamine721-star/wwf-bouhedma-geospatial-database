@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Éco-musée et Centre d'accueil des visiteurs du Parc</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Centre d'interprétation écologique et éco-musée du Parc National de Bouhedma. Infrastructure d'accueil dédiée à la sensibilisation du public, à l'éducation environnementale et à la valorisation de la biodiversité steppique et de la savane à Vachellia tortilis.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.649396</westbc>
+        <eastbc>9.649396</eastbc>
+        <northbc>34.475804</northbc>
+        <southbc>34.475804</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Éco-musée</themekey><themekey>Centre d'accueil</themekey><themekey>Éducation environnementale</themekey><themekey>Biosphère MAB</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

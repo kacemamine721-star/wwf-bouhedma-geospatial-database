@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BAT_NET_DAY2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ele": null, "time": "2026-09-15 16:48:55+00:00", "STATION_ID": "BHD26_BAT01", "NAME_FR": "Station de capture des chiroptères au filet japonais", "NAME_EN": "Bat Mist Net Sampling Station", "DATE": "2026-09-15", "TIME_UTC": "2026-09-15 16:48:55+00:00", "EXPERT": "Khaled Ferchichi", "AFFILIAT": "Helmholtz Institute for One Health", "PROTOCOL": "Filet japonais (Mist netting, maille fine monofilament)", "TARGET_GRP": "Chiroptera (Chauves-souris)", "TARGET_SP": "RHCY (Rhinopoma cystops), RHHI (Rhinolophus hipposideros), ASTR (Asellia tridens)", "CHECK_FREQ": "Contrôle continu toutes les 10 à 15 minutes", "BIOSECUR": "Gants nitrile, transfert immédiat en sacs tissu individuels propres", "SAMPLING": "Morphométrie (avant-bras, poids), écouvillons salivaires, guano et biopsies alaires", "RELEASE": "Libération immédiate sur site le soir même", "HABITAT": "SAV" }, "geometry": { "type": "Point", "coordinates": [ 9.655104037374258, 34.474274972453713 ] } }
+]
+}

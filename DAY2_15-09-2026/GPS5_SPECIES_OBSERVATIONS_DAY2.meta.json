@@ -1,0 +1,47 @@
+{
+  "layer_name": "GPS5_SPECIES_OBSERVATIONS_DAY2",
+  "title": "Relevé des grands herbivores et autruches - GPS 5 (Jour 2)",
+  "abstract": "Observations d'Oryx algazelles (Oryx dammah, ORDA) et d'Autruches d'Afrique du Nord (Struthio camelus, STCA) réalisées le 15 septembre 2026 sous la direction de Marie Petretto (Marwell Wildlife). Décomptes précis par classe de sexe (mâles/femelles) et structures sociales (couples, individus solitaires).",
+  "category": "Observations faunistiques",
+  "keywords": [
+    "Struthio camelus",
+    "Oryx dammah",
+    "STCA",
+    "ORDA",
+    "Marie Petretto",
+    "Marwell Wildlife"
+  ],
+  "expert_lead": "Marie Petretto (Marwell Wildlife)",
+  "day_folder": "DAY2_15-09-2026",
+  "feature_count": 12,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.621832994744182,
+    "miny": 34.460505014285445,
+    "maxx": 9.659202033653855,
+    "maxy": 34.47867698036134
+  },
+  "columns": [
+    "ele",
+    "time",
+    "OBS_ID",
+    "DATE",
+    "TIME_UTC",
+    "ELEVATION",
+    "SPEC_CODE",
+    "VERNACULAR",
+    "SCIENTIFIC",
+    "INDIV_CNT",
+    "NB_MALE",
+    "NB_FEM",
+    "IUCN_STAT",
+    "HABITAT",
+    "BASIS_REC",
+    "RELIAB",
+    "EXPERT",
+    "AFFILIAT",
+    "REMARKS"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

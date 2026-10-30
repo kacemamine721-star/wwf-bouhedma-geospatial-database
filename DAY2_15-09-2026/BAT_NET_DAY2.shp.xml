@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Station de capture des chiroptères au filet japonais (Jour 2)</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Station d'échantillonnage de chauves-souris déployée le 15 septembre 2026 sous la direction scientifique de Khaled Ferchichi (chercheur au Helmholtz Institute for One Health). Filet japonais (Mist netting) contrôlé toutes les 10 à 15 minutes. Espèces cibles : Rhinopoma cystops (RHCY), Rhinolophus hipposideros (RHHI), Asellia tridens (ASTR). Prélèvements non létaux et libération immédiate sur site.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.655104</westbc>
+        <eastbc>9.655104</eastbc>
+        <northbc>34.474275</northbc>
+        <southbc>34.474275</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Chiroptères</themekey><themekey>Khaled Ferchichi</themekey><themekey>Helmholtz Institute for One Health</themekey><themekey>Filet japonais</themekey><themekey>Mist net</themekey><themekey>Bio-sécurité</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

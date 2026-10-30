@@ -1,0 +1,42 @@
+{
+  "layer_name": "GROUP1_PLANT_OBSERVATION_DAY5",
+  "title": "Stations de relevés phytoécologiques (Quadrats & Transects) - Jour 5",
+  "abstract": "22 stations d'échantillonnage et quadrats phytoécologiques spatialisés lors de la session de formation animée par le Dr. Alaeddine Rouissi le 18 septembre 2026. Matérialise l'effort d'échantillonnage spatial. Les mesures dendrométriques individuelles et les déterminations taxonomiques ont été consignées sur fiches de terrain papier.",
+  "category": "Phytoécologie et effort d'échantillonnage",
+  "keywords": [
+    "Effort d'échantillonnage",
+    "Stations GPS",
+    "Quadrats",
+    "Dr. Alaeddine Rouissi",
+    "Savane",
+    "Bouhedma"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "feature_count": 22,
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.639141960069537,
+    "miny": 34.460824029520154,
+    "maxx": 9.657099014148116,
+    "maxy": 34.49987296946347
+  },
+  "columns": [
+    "ele",
+    "time",
+    "OBS_ID",
+    "DATE",
+    "TIME_UTC",
+    "ELEVATION",
+    "SPEC_CODE",
+    "SCIENTIFIC",
+    "VERNACULAR",
+    "METHOD",
+    "EXPERT",
+    "AFFILIAT",
+    "SEASON",
+    "HABITAT",
+    "REMARKS",
+    "DATA_TYPE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

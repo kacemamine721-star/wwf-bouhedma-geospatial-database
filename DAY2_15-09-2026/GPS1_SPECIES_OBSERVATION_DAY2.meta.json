@@ -1,0 +1,47 @@
+{
+  "layer_name": "GPS1_SPECIES_OBSERVATION_DAY2",
+  "title": "Relevé des grands herbivores et antilopes - GPS 1 (Jour 2)",
+  "abstract": "Observations directes d'antilopes et de grands herbivores réalisées le 15 septembre 2026 en savane à Vachellia tortilis sous la direction de Marie Petretto (Marwell Wildlife). Inclut des observations de Gazelle dorcas (Gazella dorcas, GADO, VU) et d'Oryx algazelle (Oryx dammah, ORDA, EW) dont un harem de 10 individus.",
+  "category": "Observations faunistiques",
+  "keywords": [
+    "Oryx dammah",
+    "Gazella dorcas",
+    "ORDA",
+    "GADO",
+    "Recensement direct",
+    "Marie Petretto",
+    "Marwell"
+  ],
+  "expert_lead": "Marie Petretto (Marwell Wildlife)",
+  "day_folder": "DAY2_15-09-2026",
+  "feature_count": 7,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.623379036784172,
+    "miny": 34.46134798228741,
+    "maxx": 9.659161968156695,
+    "maxy": 34.47884403169155
+  },
+  "columns": [
+    "ele",
+    "time",
+    "OBS_ID",
+    "DATE",
+    "TIME_UTC",
+    "ELEVATION",
+    "SPEC_CODE",
+    "VERNACULAR",
+    "SCIENTIFIC",
+    "INDIV_CNT",
+    "SOC_STRUCT",
+    "IUCN_STAT",
+    "HABITAT",
+    "BASIS_REC",
+    "RELIAB",
+    "EXPERT",
+    "AFFILIAT",
+    "REMARKS"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

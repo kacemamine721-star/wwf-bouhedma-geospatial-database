@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ENCLOS_MOUFLAND",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": "BHD26_ENC_AMLE", "NAME_FR": "Enclos de reproduction du Mouflon à manchettes", "NAME_EN": "Barbary Sheep Breeding Enclosure", "SPEC_CODE": "AMLE", "SPEC_COMM": "Mouflon à manchettes", "SPEC_SCI": "Ammotragus lervia", "TAXON_GRP": "Mammalia - Bovidae", "IUCN_STAT": "VU (Vulnerable) - Sensitive Data", "NB_INDIV": 3, "NB_MALE": 2, "NB_FEM": 1, "HABITAT": "ENC", "PURPOSE": "Enclos d'élevage conservatoire sur versant rocheux du Jebel", "DATE": "2026-09-14" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.648399980275752, 34.47532892044196 ], [ 9.648463738753861, 34.475071245021617 ], [ 9.648171382805453, 34.474975097272861 ], [ 9.648078077715537, 34.475267386085541 ], [ 9.648399980275752, 34.47532892044196 ] ] ] } }
+]
+}

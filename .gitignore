@@ -1,0 +1,21 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Lock GIS files
+*.tmp
+*.temp
+*~
+*.bak
+*.lock
+*.qml.lock
+*.gpkg-shm
+*.gpkg-wal
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo

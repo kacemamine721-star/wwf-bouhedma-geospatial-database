@@ -1,0 +1,34 @@
+{
+  "layer_name": "PLAN_TRANSECT_DAY5",
+  "title": "Axe central du transect linéaire dendrométrique de 10m (Jour 5)",
+  "abstract": "Axe central linéaire d'échantillonnage de 10m matérialisé par ruban décamètre pour les mesures de dendrométrie végétale le 18 septembre 2026 sous la direction du Dr. Alaeddine Rouissi. Couloir d'inspection limité à <= 0.5 m de part et d'autre de l'axe.",
+  "category": "Phytoécologie et méthodologie",
+  "keywords": [
+    "Transect 10m",
+    "Axe central",
+    "Dendrométrie",
+    "Protocole 0.5m",
+    "Dr. Alaeddine Rouissi"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "day_folder": "DAY5_18-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.651484563946724,
+    "miny": 34.47421722114086,
+    "maxx": 9.651812966912985,
+    "maxy": 34.474580492824316
+  },
+  "columns": [
+    "TRN_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERT",
+    "PROTOCOL",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

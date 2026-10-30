@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GROUP3_PLANT_OBSERVATION_DAY5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TRK_ID": "BHD26_BOT_TRK03", "NAME_FR": "Tracé de prospection phytoécologique - Groupe 3", "NAME_EN": "Phytoecological Survey Line - Group 3", "DATE": "2026-09-18", "EXPERT": "Dr. Alaeddine Rouissi", "HABITAT": "SAV", "PURPOSE": "Reconnaissance de la strate arborée à Vachellia tortilis" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.655528832226992, 34.477019459009171 ], [ 9.655462112277746, 34.477049214765429 ], [ 9.655250050127506, 34.477159604430199 ], [ 9.655249882489443, 34.477160107344389 ], [ 9.655248960480094, 34.477150803431869 ], [ 9.655249211937189, 34.477150719612837 ] ] } }
+]
+}

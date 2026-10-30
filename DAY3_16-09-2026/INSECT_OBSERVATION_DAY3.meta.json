@@ -1,0 +1,40 @@
+{
+  "layer_name": "INSECT_OBSERVATION_DAY3",
+  "title": "Station de piégeage lumineux nocturne pour insectes (Jour 3)",
+  "abstract": "Station de piégeage entomologique nocturne par drap blanc vertical et lampe haute intensité alimentée sur véhicule, installée le 16 septembre 2026 sous la direction de Wael Ben Aba (WWF Afrique du Nord). Basée sur la phototaxie nocturne. Règle éthique stricte : quota maximum de 5 spécimens par espèce par nuit pour analyses morphologiques en laboratoire.",
+  "category": "Entomologie et biodiversité nocturne",
+  "keywords": [
+    "Entomologie",
+    "Piège lumineux",
+    "Wael Ben Aba",
+    "WWF",
+    "Phototaxie",
+    "Éthique"
+  ],
+  "expert_lead": "Wael Ben Aba (WWF Afrique du Nord)",
+  "day_folder": "DAY3_16-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.650443161690966,
+    "miny": 34.47445456751046,
+    "maxx": 9.650443161690966,
+    "maxy": 34.47445456751046
+  },
+  "columns": [
+    "STATION_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERT",
+    "AFFILIAT",
+    "PROTOCOL",
+    "MECHANISM",
+    "ETHIC_RULE",
+    "PRESERVAT",
+    "LAB_ANALYS",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

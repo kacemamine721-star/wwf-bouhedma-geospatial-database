@@ -1,0 +1,35 @@
+{
+  "layer_name": "TRANSECT_ANIMALS_BIO_INDEX_DAY4",
+  "title": "Axe du transect linéaire synchronisé à 3 observateurs (Jour 4)",
+  "abstract": "Axe du transect de prospection écologique parcouru le 17 septembre 2026 selon la méthode synchronisée à 3 observateurs espacés de 0.5 m (Navigateur GPS, Pointeur d'indices, Scribe) sous l'encadrement de Faouz Kilani et du Dr. Haithem El-Farhati. Recherche systématique des terriers, pistes et fèces.",
+  "category": "Transects et bio-index",
+  "keywords": [
+    "Transect bio-index",
+    "Faouz Kilani",
+    "Dr. Haithem El-Farhati",
+    "Méthode 3 personnes",
+    "0.5m"
+  ],
+  "expert_lead": "Faouz Kilani & Dr. Haithem El-Farhati",
+  "day_folder": "DAY4_17-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.651169970803949,
+    "miny": 34.47473673851904,
+    "maxx": 9.651619184706211,
+    "maxy": 34.47478595309575
+  },
+  "columns": [
+    "TRN_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERTS",
+    "METHOD",
+    "TARGET_SIGN",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

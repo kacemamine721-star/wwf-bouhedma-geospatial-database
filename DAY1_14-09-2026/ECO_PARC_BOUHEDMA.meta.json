@@ -1,0 +1,33 @@
+{
+  "layer_name": "ECO_PARC_BOUHEDMA",
+  "title": "Éco-musée et Centre d'accueil des visiteurs du Parc",
+  "abstract": "Centre d'interprétation écologique et éco-musée du Parc National de Bouhedma. Infrastructure d'accueil dédiée à la sensibilisation du public, à l'éducation environnementale et à la valorisation de la biodiversité steppique et de la savane à Vachellia tortilis.",
+  "category": "Sensibilisation et accueil",
+  "keywords": [
+    "Éco-musée",
+    "Centre d'accueil",
+    "Éducation environnementale",
+    "Biosphère MAB"
+  ],
+  "expert_lead": "DGF & WWF Afrique du Nord",
+  "day_folder": "DAY1_14-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.649396320701305,
+    "miny": 34.47580392485786,
+    "maxx": 9.649396320701305,
+    "maxy": 34.47580392485786
+  },
+  "columns": [
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "TYPE",
+    "CATEGORY",
+    "HABITAT",
+    "DATE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

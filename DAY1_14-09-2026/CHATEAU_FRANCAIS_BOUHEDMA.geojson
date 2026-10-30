@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHATEAU_FRANCAIS_BOUHEDMA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": "BHD26_HIST01", "NAME_FR": "Château Français / Poste forestier de Bouhedma", "NAME_EN": "French Colonial Castle / Ranger Outpost", "TYPE": "Historical Landmark", "CATEGORY": "Station de surveillance / Patrimoine", "HABITAT": "BAT", "DATE": "2026-09-14" }, "geometry": { "type": "Point", "coordinates": [ 9.648835863998636, 34.475345179278996 ] } }
+]
+}

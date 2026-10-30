@@ -1,0 +1,43 @@
+{
+  "layer_name": "CAMERA_TRAPS_DAY3",
+  "title": "Stations de pièges photographiques infrarouges (Jour 3)",
+  "abstract": "Emplacement des stations de pièges photographiques autonomes (BHD26_CT01, BHD26_CT02) déployées le 16 septembre 2026 par le Dr. Haithem El-Farhati et Jamel Jrijer (Conservation du Parc). Détecteurs infrarouges passifs (PIR) actifs 24h/24 pour le suivi non invasif des carnivores nocturnes (Hyaena hyaena, Canis aureus/lupaster, Vulpes vulpes) et grands mammifères aux points d'eau.",
+  "category": "Piégeage photographique et carnivores",
+  "keywords": [
+    "Camera trap",
+    "Piège photo",
+    "Dr. Haithem El-Farhati",
+    "Jamel Jrijer",
+    "Hyaena hyaena",
+    "Carnivores"
+  ],
+  "expert_lead": "Dr. Haithem El-Farhati & Jamel Jrijer",
+  "day_folder": "DAY3_16-09-2026",
+  "feature_count": 2,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.642995959147811,
+    "miny": 34.46083903312683,
+    "maxx": 9.651148030534387,
+    "maxy": 34.47051200084388
+  },
+  "columns": [
+    "ele",
+    "time",
+    "TRAP_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "TIME_UTC",
+    "EXPERTS",
+    "AFFILIAT",
+    "SENSOR",
+    "TARGET_GRP",
+    "TARGET_SP",
+    "PURPOSE",
+    "HABITAT",
+    "STATUS"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

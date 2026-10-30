@@ -1,0 +1,37 @@
+{
+  "layer_name": "GROUP2_PLANT_OBSERVATION_DAY5",
+  "title": "Piquets de repère pour transect dendrométrique 10m (Jour 5)",
+  "abstract": "Piquets de référence d'alignement (Piq1, Stop1, Piq fin) matérialisant l'axe de départ, d'inspection et de clôture du transect dendrométrique de 10m encadré par le Dr. Alaeddine Rouissi le 18 septembre 2026.",
+  "category": "Phytoécologie et repères de terrain",
+  "keywords": [
+    "Piquets repère",
+    "Transect 10m",
+    "Dendrométrie",
+    "Dr. Alaeddine Rouissi"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "day_folder": "DAY5_18-09-2026",
+  "feature_count": 3,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.652364999055862,
+    "miny": 34.49244299903512,
+    "maxx": 9.653151975944638,
+    "maxy": 34.492473006248474
+  },
+  "columns": [
+    "ele",
+    "time",
+    "STAKE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "STAKE_LABEL",
+    "DATE",
+    "TIME_UTC",
+    "EXPERT",
+    "PROTOCOL",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

@@ -1,0 +1,40 @@
+{
+  "layer_name": "TRANSECT_PLANT_OBSERVATION_DAY5",
+  "title": "Stations de mesures dendrométriques sur transect fixe de 10m - Jour 5",
+  "abstract": "Points de stations (arbres P001 à P007 et début de transect) échantillonnés le 18 septembre 2026 le long de l'axe linéaire de 10m sous la direction du Dr. Alaeddine Rouissi. Matérialise les positions d'échantillonnage individuel pour les mesures dendrométriques.",
+  "category": "Dendrométrie et transects",
+  "keywords": [
+    "Transect 10m",
+    "Dendrométrie",
+    "Stations P001-P007",
+    "Dr. Alaeddine Rouissi"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "feature_count": 8,
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.6514340210706,
+    "miny": 34.47421998716891,
+    "maxx": 9.651763010770082,
+    "maxy": 34.47463103570044
+  },
+  "columns": [
+    "ele",
+    "time",
+    "OBS_ID",
+    "STATION_LABEL",
+    "DATE",
+    "TIME_UTC",
+    "ELEVATION",
+    "SPEC_CODE",
+    "SCIENTIFIC",
+    "VERNACULAR",
+    "EXPERT",
+    "AFFILIAT",
+    "METHOD",
+    "HABITAT",
+    "DATA_TYPE",
+    "REMARKS"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

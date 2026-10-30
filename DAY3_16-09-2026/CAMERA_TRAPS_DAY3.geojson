@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CAMERA_TRAPS_DAY3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ele": 101.639229, "time": "2026-09-13 16:59:39+00:00", "TRAP_ID": "BHD26_CT01", "NAME_FR": "Station de piège photographique infrarouge", "NAME_EN": "Infrared Camera Trap Station", "DATE": "2026-09-16", "TIME_UTC": "2026-09-13 16:59:39+00:00", "EXPERTS": "Dr. Haithem El-Farhati & Jamel Jrijer", "AFFILIAT": "WWF Afrique du Nord & Conservateur du Parc National", "SENSOR": "Détecteur infrarouge passif (PIR) automatique 24h/24", "TARGET_GRP": "Carnivores nocturnes & Grands mammifères", "TARGET_SP": "HYHY (Hyaena hyaena), CAAU (Canis aureus/lupaster), VUVU (Vulpes vulpes), ORDA (Oryx dammah)", "PURPOSE": "Suivi non-invasif de la fréquentation des points d'eau, des passages de faune et photo-identification", "HABITAT": "SAV", "STATUS": "Active" }, "geometry": { "type": "Point", "coordinates": [ 9.651148030534387, 34.460839033126831 ] } },
+{ "type": "Feature", "properties": { "ele": 110.279449, "time": "2026-09-13 17:16:23+00:00", "TRAP_ID": "BHD26_CT02", "NAME_FR": "Station de piège photographique infrarouge", "NAME_EN": "Infrared Camera Trap Station", "DATE": "2026-09-16", "TIME_UTC": "2026-09-13 17:16:23+00:00", "EXPERTS": "Dr. Haithem El-Farhati & Jamel Jrijer", "AFFILIAT": "WWF Afrique du Nord & Conservateur du Parc National", "SENSOR": "Détecteur infrarouge passif (PIR) automatique 24h/24", "TARGET_GRP": "Carnivores nocturnes & Grands mammifères", "TARGET_SP": "HYHY (Hyaena hyaena), CAAU (Canis aureus/lupaster), VUVU (Vulpes vulpes), ORDA (Oryx dammah)", "PURPOSE": "Suivi non-invasif de la fréquentation des points d'eau, des passages de faune et photo-identification", "HABITAT": "SAV", "STATUS": "Active" }, "geometry": { "type": "Point", "coordinates": [ 9.642995959147811, 34.470512000843883 ] } }
+]
+}

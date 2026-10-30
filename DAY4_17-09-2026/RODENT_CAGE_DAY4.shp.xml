@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Station de capture vivante de rongeurs - Cage piège (Jour 4)</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Station de cage piège grillagée (Tomahawk/Sherman) déployée le 17 septembre 2026 sous la direction de Faouz Kilani et du Dr. Haithem El-Farhati. Appât : pain protéiné au beurre de cacahuète et sardines. Espèces cibles : Gerbillus sp., Psammomys obesus, Meriones shawii. Règle éthique : placement sous ombrage végétal et contrôle biquotidien pour prévenir tout stress thermique.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.651636</westbc>
+        <eastbc>9.651636</eastbc>
+        <northbc>34.474801</northbc>
+        <southbc>34.474801</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Rongeurs</themekey><themekey>Faouz Kilani</themekey><themekey>Dr. Haithem El-Farhati</themekey><themekey>Cage Sherman</themekey><themekey>Appât</themekey><themekey>Éthique animale</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>

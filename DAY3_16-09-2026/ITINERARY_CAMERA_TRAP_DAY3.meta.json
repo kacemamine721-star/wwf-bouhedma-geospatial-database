@@ -1,0 +1,34 @@
+{
+  "layer_name": "ITINERARY_CAMERA_TRAP_DAY3",
+  "title": "Circuit d'installation et de contrôle des pièges photo (Jour 3)",
+  "abstract": "Circuit pédestre et motorisé reliant les différentes stations de pièges photographiques infrarouges le 16 septembre 2026, encadré par le Dr. Haithem El-Farhati et Jamel Jrijer pour la maintenance des caméras et la relève des données numériques.",
+  "category": "Itinéraires et patrouilles",
+  "keywords": [
+    "Circuit pièges photo",
+    "Maintenance",
+    "Dr. Haithem El-Farhati",
+    "Jamel Jrijer"
+  ],
+  "expert_lead": "Dr. Haithem El-Farhati & Jamel Jrijer",
+  "day_folder": "DAY3_16-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.643070725724101,
+    "miny": 34.46058229543269,
+    "maxx": 9.652722738683224,
+    "maxy": 34.475890919566154
+  },
+  "columns": [
+    "TRK_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERTS",
+    "AFFILIAT",
+    "PURPOSE",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

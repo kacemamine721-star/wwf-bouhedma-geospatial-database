@@ -1,0 +1,37 @@
+{
+  "layer_name": "CAMP_WWF",
+  "title": "Camp de base WWF Talent Academy 2026 - Bouhedma",
+  "abstract": "Emprise spatiale du camp de base de la WWF Talent Academy (Session Savane, 14-19 septembre 2026). Infrastructure centrale servant à l'hébergement des 30 participants et encadrants, aux ateliers théoriques de structuration de données écologiques et à la logistique de terrain au Parc National de Bouhedma.",
+  "category": "Infrastructures et gestion",
+  "keywords": [
+    "WWF Talent Academy",
+    "Camp de base",
+    "Bouhedma",
+    "Infrastructures",
+    "Formation"
+  ],
+  "expert_lead": "WWF Afrique du Nord & Conservation du Parc",
+  "day_folder": "DAY1_14-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Polygon",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.64999521317997,
+    "miny": 34.47498792993239,
+    "maxx": 9.650860740811371,
+    "maxy": 34.4755440693973
+  },
+  "columns": [
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "TYPE",
+    "CATEGORY",
+    "HABITAT",
+    "FUNCTION",
+    "ORGANIZER",
+    "EVENT",
+    "DATE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

@@ -1,0 +1,43 @@
+{
+  "layer_name": "RODENT_CAGE_DAY4",
+  "title": "Station de capture vivante de rongeurs - Cage piège (Jour 4)",
+  "abstract": "Station de cage piège grillagée (Tomahawk/Sherman) déployée le 17 septembre 2026 sous la direction de Faouz Kilani et du Dr. Haithem El-Farhati. Appât : pain protéiné au beurre de cacahuète et sardines. Espèces cibles : Gerbillus sp., Psammomys obesus, Meriones shawii. Règle éthique : placement sous ombrage végétal et contrôle biquotidien pour prévenir tout stress thermique.",
+  "category": "Micro-mammifères et rongeurs",
+  "keywords": [
+    "Rongeurs",
+    "Faouz Kilani",
+    "Dr. Haithem El-Farhati",
+    "Cage Sherman",
+    "Appât",
+    "Éthique animale"
+  ],
+  "expert_lead": "Faouz Kilani & Dr. Haithem El-Farhati",
+  "day_folder": "DAY4_17-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.651636024937034,
+    "miny": 34.47480102069676,
+    "maxx": 9.651636024937034,
+    "maxy": 34.47480102069676
+  },
+  "columns": [
+    "ele",
+    "time",
+    "STATION_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "TIME_UTC",
+    "EXPERTS",
+    "AFFILIAT",
+    "TRAP_MODEL",
+    "BAIT_TYPE",
+    "TARGET_GRP",
+    "TARGET_SP",
+    "ETHIC_RULE",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

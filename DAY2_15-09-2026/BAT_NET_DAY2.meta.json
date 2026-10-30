@@ -1,0 +1,45 @@
+{
+  "layer_name": "BAT_NET_DAY2",
+  "title": "Station de capture des chiroptères au filet japonais (Jour 2)",
+  "abstract": "Station d'échantillonnage de chauves-souris déployée le 15 septembre 2026 sous la direction scientifique de Khaled Ferchichi (chercheur au Helmholtz Institute for One Health). Filet japonais (Mist netting) contrôlé toutes les 10 à 15 minutes. Espèces cibles : Rhinopoma cystops (RHCY), Rhinolophus hipposideros (RHHI), Asellia tridens (ASTR). Prélèvements non létaux et libération immédiate sur site.",
+  "category": "Chiroptères et bio-sécurité",
+  "keywords": [
+    "Chiroptères",
+    "Khaled Ferchichi",
+    "Helmholtz Institute for One Health",
+    "Filet japonais",
+    "Mist net",
+    "Bio-sécurité"
+  ],
+  "expert_lead": "Khaled Ferchichi (Helmholtz Institute for One Health)",
+  "day_folder": "DAY2_15-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.655104037374258,
+    "miny": 34.47427497245371,
+    "maxx": 9.655104037374258,
+    "maxy": 34.47427497245371
+  },
+  "columns": [
+    "ele",
+    "time",
+    "STATION_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "TIME_UTC",
+    "EXPERT",
+    "AFFILIAT",
+    "PROTOCOL",
+    "TARGET_GRP",
+    "TARGET_SP",
+    "CHECK_FREQ",
+    "BIOSECUR",
+    "SAMPLING",
+    "RELEASE",
+    "HABITAT"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

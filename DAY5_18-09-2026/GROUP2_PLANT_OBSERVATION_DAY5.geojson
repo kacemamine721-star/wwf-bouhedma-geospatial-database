@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GROUP2_PLANT_OBSERVATION_DAY5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ele": null, "time": "2026-09-18 09:42:36+00:00", "STAKE_ID": "BHD26_STK_01", "NAME_FR": "Piquets de repère d'alignement pour transect dendrométrique 10m", "NAME_EN": "10m Dendrometric Line-Transect Reference Stakes", "STAKE_LABEL": "Piq fin", "DATE": "2026-09-18", "TIME_UTC": "2026-09-18 09:42:36+00:00", "EXPERT": "Dr. Alaeddine Rouissi", "PROTOCOL": "Alignement 3 piquets espacés de 0.5 m, ruban décamètre 10 m, couloir d'inspection <= 0.5 m", "HABITAT": "SAV" }, "geometry": { "type": "Point", "coordinates": [ 9.652366004884243, 34.492473006248474 ] } },
+{ "type": "Feature", "properties": { "ele": 153.247284, "time": "2026-09-18 08:54:19+00:00", "STAKE_ID": "BHD26_STK_02", "NAME_FR": "Piquets de repère d'alignement pour transect dendrométrique 10m", "NAME_EN": "10m Dendrometric Line-Transect Reference Stakes", "STAKE_LABEL": "Piq1", "DATE": "2026-09-18", "TIME_UTC": "2026-09-18 08:54:19+00:00", "EXPERT": "Dr. Alaeddine Rouissi", "PROTOCOL": "Alignement 3 piquets espacés de 0.5 m, ruban décamètre 10 m, couloir d'inspection <= 0.5 m", "HABITAT": "SAV" }, "geometry": { "type": "Point", "coordinates": [ 9.652364999055862, 34.492460014298558 ] } },
+{ "type": "Feature", "properties": { "ele": 153.303268, "time": "2026-09-18 08:51:49+00:00", "STAKE_ID": "BHD26_STK_03", "NAME_FR": "Piquets de repère d'alignement pour transect dendrométrique 10m", "NAME_EN": "10m Dendrometric Line-Transect Reference Stakes", "STAKE_LABEL": "Stop1", "DATE": "2026-09-18", "TIME_UTC": "2026-09-18 08:51:49+00:00", "EXPERT": "Dr. Alaeddine Rouissi", "PROTOCOL": "Alignement 3 piquets espacés de 0.5 m, ruban décamètre 10 m, couloir d'inspection <= 0.5 m", "HABITAT": "SAV" }, "geometry": { "type": "Point", "coordinates": [ 9.653151975944638, 34.49244299903512 ] } }
+]
+}

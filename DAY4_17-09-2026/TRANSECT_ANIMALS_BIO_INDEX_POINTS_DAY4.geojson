@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TRANSECT_ANIMALS_BIO_INDEX_POINTS_DAY4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ele": 122.138756, "time": "2026-09-17 17:06:07+00:00", "PT_ID": "BHD26_BIO_PT01", "DATE": "2026-09-17", "TIME_UTC": "2026-09-17 17:06:07+00:00", "EXPERTS": "Faouz Kilani & Dr. Haithem El-Farhati", "INDEX_TYPE": "TER (Terrier de rongeur)", "SIGN_CODE": "TER", "FRESHNESS": "Actif / Frais", "HABITAT": "SAV", "RELIAB": 1, "REMARKS": "Entrée de terrier active sous touffe d'alfa" }, "geometry": { "type": "Point", "coordinates": [ 9.651618003845215, 34.474737988784909 ] } },
+{ "type": "Feature", "properties": { "ele": 128.035751, "time": "2026-09-17 16:25:23+00:00", "PT_ID": "BHD26_BIO_PT02", "DATE": "2026-09-17", "TIME_UTC": "2026-09-17 16:25:23+00:00", "EXPERTS": "Faouz Kilani & Dr. Haithem El-Farhati", "INDEX_TYPE": "FEC (Fèces fraîches)", "SIGN_CODE": "FEC", "FRESHNESS": "Humide / Récent (< 24h)", "HABITAT": "SAV", "RELIAB": 1, "REMARKS": "Fèces récentes examinées avec gants de protection" }, "geometry": { "type": "Point", "coordinates": [ 9.651169991120696, 34.474786017090082 ] } }
+]
+}

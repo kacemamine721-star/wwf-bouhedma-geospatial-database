@@ -1,0 +1,40 @@
+{
+  "layer_name": "TRANSECT_ANIMALS_BIO_INDEX_POINTS_DAY4",
+  "title": "Indices biologiques relevés sur le transect (Jour 4)",
+  "abstract": "Points d'observation d'indices indirects de présence animale relevés le 17 septembre 2026 (terriers actifs TER, fèces fraîches FEC testées avec gants de protection) encadrés par Faouz Kilani et le Dr. Haithem El-Farhati.",
+  "category": "Indices biologiques et bio-index",
+  "keywords": [
+    "Indices biologiques",
+    "Terrier",
+    "Fèces",
+    "Faouz Kilani",
+    "Dr. Haithem El-Farhati",
+    "Bio-index"
+  ],
+  "expert_lead": "Faouz Kilani & Dr. Haithem El-Farhati",
+  "day_folder": "DAY4_17-09-2026",
+  "feature_count": 2,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.651169991120696,
+    "miny": 34.47473798878491,
+    "maxx": 9.651618003845215,
+    "maxy": 34.47478601709008
+  },
+  "columns": [
+    "ele",
+    "time",
+    "PT_ID",
+    "DATE",
+    "TIME_UTC",
+    "EXPERTS",
+    "INDEX_TYPE",
+    "SIGN_CODE",
+    "FRESHNESS",
+    "HABITAT",
+    "RELIAB",
+    "REMARKS"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

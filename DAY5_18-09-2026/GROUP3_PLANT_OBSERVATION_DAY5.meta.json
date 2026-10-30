@@ -1,0 +1,33 @@
+{
+  "layer_name": "GROUP3_PLANT_OBSERVATION_DAY5",
+  "title": "Tracé de prospection phytoécologique - Groupe 3 (Jour 5)",
+  "abstract": "Tracé linéaire de prospection et d'échantillonnage de la strate arborée à Vachellia tortilis parcouru par le Groupe 3 le 18 septembre 2026 sous la supervision du Dr. Alaeddine Rouissi.",
+  "category": "Phytoécologie et transects",
+  "keywords": [
+    "Groupe 3",
+    "Prospection botanique",
+    "Vachellia tortilis",
+    "Dr. Alaeddine Rouissi"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "day_folder": "DAY5_18-09-2026",
+  "feature_count": 1,
+  "geometry_type": "LineString",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.655248960480094,
+    "miny": 34.47701945900917,
+    "maxx": 9.655528832226992,
+    "maxy": 34.47716010734439
+  },
+  "columns": [
+    "TRK_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "DATE",
+    "EXPERT",
+    "HABITAT",
+    "PURPOSE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

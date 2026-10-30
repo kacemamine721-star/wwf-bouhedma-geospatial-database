@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ECO_PARC_BOUHEDMA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": "BHD26_ECO01", "NAME_FR": "Éco-musée et Centre d'accueil du Parc", "NAME_EN": "Bouhedma Eco-Museum and Visitor Centre", "TYPE": "Public Reception & Museum", "CATEGORY": "Sensibilisation et éducation environnementale", "HABITAT": "BAT", "DATE": "2026-09-14" }, "geometry": { "type": "Point", "coordinates": [ 9.649396320701305, 34.475803924857857 ] } }
+]
+}

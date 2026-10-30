@@ -1,0 +1,40 @@
+{
+  "layer_name": "AIN_CHARCHARA_DAY5",
+  "title": "Source pérenne et cascade d'Ain Charchara (Jour 5)",
+  "abstract": "Point d'eau naturel stratégique et cascade d'Ain Charchara au cœur du Djebel Bouhedma, visité le 18 septembre 2026 sous la direction du Dr. Alaeddine Rouissi. Corridor hydrologique et ripisylve d'oued abritant Retama raetam, Pistacia atlantica et Vachellia tortilis.",
+  "category": "Hydro-écologie et corridors",
+  "keywords": [
+    "Ain Charchara",
+    "Source pérenne",
+    "Cascade",
+    "Ripisylve",
+    "Dr. Alaeddine Rouissi",
+    "Djebel"
+  ],
+  "expert_lead": "Dr. Alaeddine Rouissi (WWF Afrique du Nord)",
+  "day_folder": "DAY5_18-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.65586201287806,
+    "miny": 34.51108502224088,
+    "maxx": 9.65586201287806,
+    "maxy": 34.51108502224088
+  },
+  "columns": [
+    "ele",
+    "time",
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "TYPE",
+    "CATEGORY",
+    "DATE",
+    "TIME_UTC",
+    "EXPERT",
+    "HABITAT",
+    "FLORA_DESC"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

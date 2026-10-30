@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AIN_CHARCHARA_DAY5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ele": 235.637283, "time": "2026-09-18 12:02:47+00:00", "SITE_ID": "BHD26_SPRING01", "NAME_FR": "Source pérenne et cascade d'Ain Charchara", "NAME_EN": "Ain Charchara Natural Spring & Waterfall", "TYPE": "Point d'eau naturel / Cascade", "CATEGORY": "Ripisylve & Corridor écologique", "DATE": "2026-09-18", "TIME_UTC": "2026-09-18 12:02:47+00:00", "EXPERT": "Dr. Alaeddine Rouissi", "HABITAT": "OUE / PTE", "FLORA_DESC": "Corridor ripisylve d'oued abritant Retama raetam, Pistacia atlantica et Vachellia tortilis" }, "geometry": { "type": "Point", "coordinates": [ 9.65586201287806, 34.511085022240877 ] } }
+]
+}

@@ -1,0 +1,34 @@
+{
+  "layer_name": "CHATEAU_FRANCAIS_BOUHEDMA",
+  "title": "Château Français / Poste forestier historique de Bouhedma",
+  "abstract": "Point de repère patrimonial et historique colonial au sein du Parc National de Bouhedma. Bâtiment utilisé comme poste de surveillance forestière et station logistique par la Direction Générale des Forêts (DGF).",
+  "category": "Patrimoine historique et surveillance",
+  "keywords": [
+    "Château Français",
+    "Poste forestier",
+    "DGF",
+    "Patrimoine",
+    "Surveillance"
+  ],
+  "expert_lead": "DGF & WWF Afrique du Nord",
+  "day_folder": "DAY1_14-09-2026",
+  "feature_count": 1,
+  "geometry_type": "Point",
+  "crs": "EPSG:4326 (WGS 84)",
+  "bbox": {
+    "minx": 9.648835863998636,
+    "miny": 34.475345179278996,
+    "maxx": 9.648835863998636,
+    "maxy": 34.475345179278996
+  },
+  "columns": [
+    "SITE_ID",
+    "NAME_FR",
+    "NAME_EN",
+    "TYPE",
+    "CATEGORY",
+    "HABITAT",
+    "DATE"
+  ],
+  "license": "CC BY-NC-SA 4.0"
+}

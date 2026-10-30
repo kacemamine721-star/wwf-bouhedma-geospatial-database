@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAMP_WWF",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": "BHD26_CAMP01", "NAME_FR": "Camp de base WWF Talent Academy", "NAME_EN": "WWF Talent Academy Basecamp", "TYPE": "Infrastructure", "CATEGORY": "Basecamp / Accommodation", "HABITAT": "BAT", "FUNCTION": "Hébergement, formation et coordination des sessions de terrain", "ORGANIZER": "WWF Afrique du Nord & DGF", "EVENT": "WWF Talent Academy - Session Savane 2026", "DATE": "2026-09-14" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.65072218046687, 34.475544069397301 ], [ 9.650860740811371, 34.475225190796259 ], [ 9.650167939088869, 34.474987929932389 ], [ 9.64999521317997, 34.47535995496694 ], [ 9.65072218046687, 34.475544069397301 ] ] ] } }
+]
+}

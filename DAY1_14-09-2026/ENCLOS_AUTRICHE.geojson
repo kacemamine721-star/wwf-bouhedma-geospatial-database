@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ENCLOS_AUTRICHE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_ID": "BHD26_ENC_STCA", "NAME_FR": "Enclos de reproduction de l'Autruche d'Afrique du Nord", "NAME_EN": "North African Ostrich Breeding Enclosure", "SPEC_CODE": "STCA", "SPEC_COMM": "Autruche d'Afrique du Nord", "SPEC_SCI": "Struthio camelus", "TAXON_GRP": "Aves - Struthionidae", "IUCN_STAT": "Reintroduced / Enclosure", "NB_INDIV": 9, "AGE_CLASS": "5 mois (poussins de l'année)", "HABITAT": "ENC", "PURPOSE": "Reproduction assistée et sécurisation avant lâcher en plaine libre", "DATE": "2026-09-14" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.647601079859671, 34.476458300182486 ], [ 9.647767633861875, 34.476083506726162 ], [ 9.648456357168282, 34.476139169227125 ], [ 9.6485553892777, 34.475467505903076 ], [ 9.647943190783115, 34.475419264682742 ], [ 9.648109744785316, 34.474959116256336 ], [ 9.646894350715188, 34.474636268668242 ], [ 9.646417196006171, 34.476257915771697 ], [ 9.647584192339028, 34.476467499156641 ], [ 9.647601079859671, 34.476458300182486 ] ] ] } }
+]
+}

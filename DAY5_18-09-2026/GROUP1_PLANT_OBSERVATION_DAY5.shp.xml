@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>Relevés phytoécologiques et dendrométrie Vachellia tortilis (Jour 5)</title>
+        <origin>WWF Afrique du Nord &amp; Direction Générale des Forêts (DGF)</origin>
+        <pubdate>2026-10-30</pubdate>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>22 stations de relevés botaniques quantitatifs et mesures dendrométriques réalisées le 18 septembre 2026 sous la direction du Dr. Alaeddine Rouissi. Focus sur Vachellia tortilis (arbre structurant de savane, code VATO, syn. Acacia raddiana) et Stipa tenacissima (STA, alfa). Mesures de hauteur totale, cimes D1/D2 et diamètre du tronc à la base.</abstract>
+      <purpose>Suivi écologique et valorisation des données de terrain WWF Talent Academy 2026.</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>9.639142</westbc>
+        <eastbc>9.657099</eastbc>
+        <northbc>34.499873</northbc>
+        <southbc>34.460824</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>WWF</themekt>
+        <themekey>Vachellia tortilis</themekey><themekey>VATO</themekey><themekey>Acacia raddiana</themekey><themekey>Stipa tenacissima</themekey><themekey>Dendrométrie</themekey><themekey>Dr. Alaeddine Rouissi</themekey>
+      </theme>
+    </keywords>
+    <accconst>Usage scientifique et académique non commercial sous licence CC BY-NC-SA 4.0.</accconst>
+    <useconst>Propriété WWF Afrique du Nord et DGF. Mention de la source obligatoire.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>WWF Afrique du Nord</cntorg>
+          <cntper>Zakher Bouragaoui</cntper>
+        </cntorgp>
+        <cntemail>zbouragaoui@wwfna.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+      </geodetic>
+    </horizsys>
+  </spref>
+</metadata>
