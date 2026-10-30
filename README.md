@@ -1,6 +1,8 @@
 # WWF Talent Academy 2026 - Base de Données Géospatiale et Écologique du Parc National de Bouhedma
 **Bouhedma National Park Geospatial and Biodiversity Monitoring Database**
 
+![wwf_image](wwf_talent_academy_2026.png)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![CRS: EPSG 4326](https://img.shields.io/badge/CRS-EPSG%3A4326%20(WGS%2084)-blue.svg)](https://epsg.io/4326)
 [![WDPA ID: 13962](https://img.shields.io/badge/WDPA%20Site-13962-green.svg)](https://www.protectedplanet.net/13962)
