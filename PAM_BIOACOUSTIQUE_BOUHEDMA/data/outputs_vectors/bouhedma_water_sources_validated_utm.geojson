@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "bouhedma_water_sources_validated_utm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Aïn Charchara (Cascade pérenne canyon)", "TYPE": "Source naturelle pérenne" }, "geometry": { "type": "Point", "coordinates": [ 560202.800000000046566, 3819021.700000000186265 ] } },
+{ "type": "Feature", "properties": { "NAME": "Cirque Nord (Point d'eau piémont)", "TYPE": "Source / Résurgence de cirque" }, "geometry": { "type": "Point", "coordinates": [ 559290.0, 3818980.0 ] } },
+{ "type": "Feature", "properties": { "NAME": "Camp WWF (Citernes & robinets)", "TYPE": "Point d'eau infrastructure" }, "geometry": { "type": "Point", "coordinates": [ 559729.400000000023283, 3815047.700000000186265 ] } },
+{ "type": "Feature", "properties": { "NAME": "Château Français (Réservoir historique)", "TYPE": "Point d'eau réservoir" }, "geometry": { "type": "Point", "coordinates": [ 559864.0, 3815197.799999999813735 ] } },
+{ "type": "Feature", "properties": { "NAME": "Éco-Parc (Point d'eau & écomusée)", "TYPE": "Point d'eau écomusée" }, "geometry": { "type": "Point", "coordinates": [ 559634.400000000023283, 3815105.5 ] } },
+{ "type": "Feature", "properties": { "NAME": "Enclos Autruches (Abreuvoir faune)", "TYPE": "Abreuvoir faune sauvage" }, "geometry": { "type": "Point", "coordinates": [ 559453.0, 3815083.299999999813735 ] } },
+{ "type": "Feature", "properties": { "NAME": "Enclos Mouflons (Abreuvoir faune)", "TYPE": "Abreuvoir faune sauvage" }, "geometry": { "type": "Point", "coordinates": [ 559531.800000000046566, 3815033.6 ] } },
+{ "type": "Feature", "properties": { "NAME": "Abreuvoir Plaine Centrale (Oryx & Gazelles)", "TYPE": "Abreuvoir pastoral DGF" }, "geometry": { "type": "Point", "coordinates": [ 559280.0, 3814300.0 ] } },
+{ "type": "Feature", "properties": { "NAME": "Guelta Oued Médian (Cuvette rocheuse)", "TYPE": "Guelta naturelle oued" }, "geometry": { "type": "Point", "coordinates": [ 560445.0, 3817735.0 ] } },
+{ "type": "Feature", "properties": { "NAME": "Piémont Ouest (Suintement montagneux)", "TYPE": "Suintement / Source temporaire" }, "geometry": { "type": "Point", "coordinates": [ 556920.0, 3816100.0 ] } }
+]
+}

@@ -1,0 +1,16 @@
+parameter_name,category,target_layer,value_or_threshold,unit,rule_direction,justification_source
+savi_dry_min,Végétation,savi_dry,0.12,index,more_better,Seuil séparant le sol minéral nu de la canopée pérenne d'acacia (Vachellia tortilis)
+savi_amp_max,Végétation,savi_amp,0.20,index,less_better,Amplitude maximale; les ligneux pérennes ont une faible amplitude inter-saisonnière
+dist_water_max,Hydrologie,dist_water_m,3000,mètres,nearer_better,Distance maximale de décroissance de l'attractivité hydrique
+road_rr124_buffer,Quiétude,RR124_OSM,300,mètres,hard_exclusion,Zone d'exclusion stricte UNIQUEMENT le long de la Route Régionale asphaltée RR124 (trafic motorisé au sud)
+trail_setback,Accessibilité,GPS4_TRAIL+GPS6_TRAIL,0,mètres,no_exclusion,Sentiers pédestres = zéro bruit moteur. Aucune exclusion. Corridors logistiques rangers.
+slope_max_mask,Sécurité_Pose,slope,25,degrés,hard_mask,Pente maximale assurant la sécurité des opérateurs et la stabilité du substrat
+substrate_tree,Substrat_A,Vachellia_tortilis,savi_dry>0.12,index,candidate,Maxima locaux SAVI hors exclusion RR124 = houppiers réels d'acacias à apposer un boîtier
+substrate_powerline,Substrat_B,POWERLINES_PARC_NATIONAL_BOUHEDMA,15_pylons_Sector1,poteaux,candidate,Poteaux électriques OSM = perchoirs rapaces/passereaux. Vue 360°. Montage homologué.
+powerline_score_vantage,Score_Poteau,perch_vantage,0.85,fixed,bonus,Bonus de vue panoramique et acoustique pour poteaux (absence de bruit foliaire au vent)
+sampling_rate,Matériel,Song Meter Micro 2,32000,Hz,fixed,Couverture spectrale Nyquist jusqu'à 16 kHz couvrant 100% des chants d'oiseaux
+mounting_height_tree,Terrain,Arbre_Acacia,1.8-2.0,mètres,fixed,Hauteur de pose standardisée sur branche maîtresse hors d'atteinte de la faune
+mounting_height_pylon,Terrain,Poteau_Électrique,2.5-3.0,mètres,fixed,Fixation sur fût métallique avec sangle UV résistante. Microphone perpendiculaire à la ligne.
+highpass_filter_pylon,Matériel,Poteau_Filtre_50Hz,500,Hz,fixed,Filtre passe-haut 500 Hz recommandé pour éliminer résiduel 50 Hz des lignes BT
+inhibition_savane,Optimisation,distance_min,600-750,mètres,spatial_inhibition,Espacement minimal entre sites de plaine évitant la pseudo-réplication acoustique
+inhibition_canyon,Optimisation,distance_min,450-550,mètres,spatial_inhibition,Espacement le long de la toposéquence montagneuse et des oueds

@@ -6,7 +6,7 @@ authors:
   - name: "WWF North Africa"
     city: "Tunis"
     country: "TN"
-    website: "https://www.wwf.tn"
+    website: "https://www.wwfna.org"
   - name: "General Directorate of Forests (DGF Tunisia)"
     city: "Tunis"
     country: "TN"
@@ -14,7 +14,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-30
 license: "CC-BY-NC-SA-4.0"
-repository-code: "https://github.com/wwf-tunisia/bouhedma-geospatial-database"
+repository-code: "https://github.com/kacemamine721-star/wwf-bouhedma-geospatial-database.git"
 keywords:
   - "Bouhedma National Park"
   - "Tunisia"
@@ -28,4 +28,3 @@ keywords:
   - "Geospatial Data"
   - "GeoJSON"
   - "QGIS"
-

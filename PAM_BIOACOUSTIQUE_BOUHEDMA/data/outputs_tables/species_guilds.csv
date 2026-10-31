@@ -1,0 +1,35 @@
+species,scientific_name,common_name_fr,guild,stratum,freq_low_khz,freq_high_khz,sing_height,iucn_status,source
+Crowned Sandgrouse,Pterocles coronatus,Ganga couronné,granivore,plaine_steppe,1.5,3.2,sol,LC,Isenmann 2005 / BirdLife
+Spotted Sandgrouse,Pterocles senegallus,Ganga tacheté,granivore,plaine_steppe,1.8,3.5,sol,LC,Isenmann 2005 / Biorec
+Barbary Partridge,Alectoris barbara,Perdrix gambra,granivore,djebel_piemont,1.0,4.0,rocher_sol,LC,BirdLife IBA trigger
+Cream-colored Courser,Cursorius cursor,Courvite isabelle,granivore,plaine_degagee,2.0,4.5,sol,LC,Isenmann 2005
+Houbara Bustard,Chlamydotis undulata,Outarde houbara,granivore,steppe_ouverte,0.5,1.8,sol,VU,DGF / ONAGRI
+Eurasian Stone-curlew,Burhinus oedicnemus,Œdicnème criard,granivore,lits_oueds_acacia,1.2,3.0,sol_touffe,LC,Isenmann 2005
+North African Ostrich,Struthio camelus camelus,Autruche d'Afrique du Nord,granivore,savane_acacia,0.1,0.8,sol,Reintroduced,UNESCO MAB / WWF
+Greater Hoopoe-Lark,Alaemon alaudipes,Sirli du désert,insectivore,reg_steppe,1.5,4.8,monticule_sol,LC,BirdLife IBA trigger
+Desert Lark,Ammomanes deserti,Ammomane du désert,insectivore,djebel_pentes,2.0,5.5,bloc_rocheux,LC,Isenmann 2005
+Bar-tailed Lark,Ammomanes cinctura,Ammomane élégante,insectivore,reg_steppe,2.2,5.0,sol,LC,African Bird Club
+Thick-billed Lark,Ramphocoris clotbey,Alouette de Clot-Bey,insectivore,steppe_pierreuse,1.8,4.2,sol,LC,Isenmann 2005
+Thekla Lark,Galerida theklae,Cochevis de Thékla,insectivore,savane_acacia,1.8,6.0,arbuste_sol,LC,Isenmann 2005
+Desert Wheatear,Oenanthe deserti,Traquet du désert,insectivore,plaine_steppe,2.5,6.5,perchoir_bas,LC,Isenmann 2005 / eBird
+White-crowned Wheatear,Oenanthe leucopyga,Traquet à tête blanche,insectivore,oueds_ravins,2.2,6.0,roche_acacia,LC,Isenmann 2005
+Black-eared Wheatear,Oenanthe hispanica,Traquet oreillard,insectivore,versant_rocheux,2.5,7.0,buisson,LC,Isenmann 2005
+Moussier's Redstart,Phoenicurus moussieri,Rougequeue de Moussier,insectivore,oued_arbustif,2.0,6.8,branche_acacia,LC,Endémique Maghreb / IBA
+Fulvous Babbler,Turdoides fulva,Cratérope fauve,insectivore,fourre_acacia,1.5,5.5,buisson_dense,LC,Isenmann 2005 / Biorec
+Desert Warbler,Curruca nana,Fauvette naine,insectivore,steppe_buisson,3.0,8.0,buisson_bas,LC,Isenmann 2005
+Streaked Scrub Warbler,Scotocerca inquieta,Dromoïque du désert,insectivore,pente_alfa,3.5,8.5,touffe_alfa,LC,Isenmann 2005
+Desert Grey Shrike,Lanius elegans,Pie-grièche du désert,insectivore,savane_acacia,1.5,6.0,cime_acacia,LC,Isenmann 2005
+Red-necked Nightjar,Caprimulgus ruficollis,Engoulevent à collier roux,insectivore,savane_acacia,1.0,2.5,sol_tronc,LC,Isenmann 2005
+Eurasian Hoopoe,Upupa epops,Huppe fasciée,insectivore,savane_acacia,0.8,1.8,tronc_cavite,LC,Isenmann 2005
+Blue Rock Thrush,Monticola solitarius,Monticole bleu,fruit_omnivore,djebel_falaise,1.8,5.5,paroi_rocheuse,LC,Isenmann 2005
+Trumpeter Finch,Bucanetes githagineus,Roselin githagine,fruit_omnivore,oued_source,1.5,4.0,pierrier_eau,LC,Isenmann 2005 / eBird
+House Bunting,Emberiza sahari,Bruant du Sahara,fruit_omnivore,bati_falaise,2.2,6.0,toiture_rocher,LC,Isenmann 2005
+Laughing Dove,Spilopelia senegalensis,Tourterelle maillée,fruit_omnivore,savane_acacia,0.6,1.8,canopee_acacia,LC,Isenmann 2005 / eBird
+Golden Eagle,Aquila chrysaetos,Aigle royal,raptor,djebel_cretes,1.0,3.0,cime_falaise,LC,DGF / Istidama
+Bonelli's Eagle,Aquila fasciata,Aigle de Bonelli,raptor,djebel_cretes,1.2,3.5,falaise,LC,BirdLife IBA trigger
+Egyptian Vulture,Neophron percnopterus,Vautour percnoptère,raptor,djebel_savane,0.8,2.0,falaise_air,EN,CMS / BirdLife IBA
+Long-legged Buzzard,Buteo rufinus,Buse féroce,raptor,savane_djebel,1.2,3.2,acacia_haut,LC,Isenmann 2005
+Lanner Falcon,Falco biarmicus,Faucon lanier,raptor,djebel_steppe,2.0,5.5,falaise,LC,DGF / Istidama
+Pharaoh Eagle-Owl,Bubo ascalaphus,Grand-duc ascalaphe,raptor,gorge_acacia,0.3,1.2,grotte_arbre,LC,BirdLife IBA trigger
+Little Owl,Athene noctua,Chevêche d'Athéna,raptor,bati_rocher_acacia,1.0,3.8,mur_branche,LC,Isenmann 2005
+

@@ -1,0 +1,7 @@
+cluster_id,stratum_code,stratum_name_fr,stratum_name_en,color_hex,ground_truth_validation,priority_guilds
+0,SAV,Savane arborée à Vachellia tortilis,Acacia tortilis Savanna,#2ca25f,22 quadrats GROUP1 & transect dendrométrique Dr. Rouissi,insectivore;raptor
+1,STA,Steppe dénudée & alfatière (Stipa tenacissima),Esparto Grass Steppe,#fed98e,Zones planes inter-acacias & piémonts limoneux,granivore;insectivore
+2,ROC,Escarpements rocheux du Djebel Bouhedma,Rocky Mountain Slopes (Djebel),#993404,Falaises calcaires >15° pente & Juniperus phoenicea,raptor;fruit_omnivore
+3,OUE,Réseau hydrographique & Ripisylve d'Oued,Riparian Corridor & Wadi Channels,#2b8cbe,Source pérenne Aïn Charchara (DAY5) & lit d'oued principal,insectivore;granivore;fruit_omnivore
+4,REG,Regs et dépressions périphériques arides,Arid Gravel Flats & Sub-Sebkha,#d95f0e,Sols salins & bordures extérieures du parc,granivore
+
